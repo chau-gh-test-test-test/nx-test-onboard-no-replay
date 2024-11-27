@@ -42,7 +42,5 @@
       "component": { "style": "css" },
       "library": { "style": "css", "linter": "eslint" }
     }
-  },
-  "nxCloudId": "674744fa0e944d17c7a0b94d",
-  "nxCloudUrl": "http://localhost:4202"
+  }
 }
